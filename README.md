@@ -65,5 +65,5 @@ python realpose.py
 |---|---|
 | `lora` | LoRA per Flux 2 |
 | `lora wan` | LoRA per Wan 2.2 A |
-| `render pose` | Immagini generate dalla posa catturata |
+| `render pose` | Immagini/Rendering Daz3d per i modellini 3d della posa da catturare|
 | `clips` | Video animati generati |
